@@ -2,7 +2,7 @@
   "name": "IronLog",
   "short_name": "IronLog",
   "description": "Local-first workout tracker — PPL, Upper/Lower, pull-up progression, analytics",
-  "start_url": "./index.html",
+  "start_url": "/IronLog/",
   "display": "standalone",
   "background_color": "#0b0d14",
   "theme_color": "#0b0d14",
@@ -21,6 +21,8 @@
       "purpose": "any maskable"
     }
   ],
-  "categories": ["health", "fitness"],
-  "screenshots": []
+  "categories": [
+    "health",
+    "fitness"
+  ]
 }
